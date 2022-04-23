@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/acme</item>
+        <item>@font/allan_bold</item>
+        <item>@font/allerta</item>
+        <item>@font/annie_use_your_telescope</item>
+    </array>
+</resources>
